@@ -1,5 +1,5 @@
 # Project Name
- AI Agent for SQL Query Execution
+# AI Agent for SQL Query Execution
 # Technologies & Libraries Used 
 # 1.Programming Language: 
 • Python 
@@ -24,12 +24,12 @@
 # Installation Commands:
 pip install Flask psycopg2 mysql-connector-python google-generativeai pandas 
 # Project Architecture 
-![UI Preview](![image](https://github.com/user-attachments/assets/dcfd8354-2472-4c6d-9c9f-125b45f042cd) 
+![image](https://github.com/user-attachments/assets/bf98a5b1-b1cc-4a46-a83b-4e227c39161d)
 • database.py: Handles database connection and query execution. 
 • ai_sql.py: Converts natural language queries to SQL using Google Gemini API. 
 • query_executor.py: Processes AI-generated SQL and executes it. 
 • app.py: Main Flask application that serves the API. 
-# (Streamlit UI ): 
+# Streamlit UI : 
 • streamlit_app.py: Provides a simple UI for user input and displays query results.
 # Output:- 
 ![image](https://github.com/user-attachments/assets/90ac2262-1d95-4ee3-9de4-f4ea3ee9a8a8)
