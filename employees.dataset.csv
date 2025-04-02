@@ -1,0 +1,36 @@
+"id","name","position","department","salary","join_date","city"
+1,Alice Johnson,Software Engineer,IT,70000.00,2021-03-01,New York
+2,Bob Smith,Project Manager,IT,85000.00,2020-05-15,San Francisco
+3,Charlie Brown,HR Manager,HR,75000.00,2019-08-30,London
+4,David Williams,Data Scientist,Data Science,95000.00,2021-01-20,Austin
+5,Eva White,Software Engineer,IT,72000.00,2021-06-10,San Francisco
+6,Frank Green,Sales Manager,Sales,78000.00,2018-07-12,New York
+7,Grace Black,Data Scientist,Data Science,92000.00,2022-02-25,London
+8,Hank Blue,Software Engineer,IT,71000.00,2020-09-10,Mumbai
+9,Ivy Red,HR Assistant,HR,60000.00,2022-01-15,San Francisco
+10,Jack Gold,Sales Associate,Sales,65000.00,2021-11-05,Austin
+11,Kim Purple,Data Analyst,Data Science,68000.00,2020-10-15,London
+12,Liam Brown,Software Engineer,IT,77000.00,2022-03-10,San Francisco
+13,Mona Green,Project Manager,IT,88000.00,2019-12-01,Mumbai
+14,Nancy Gray,HR Assistant,HR,59000.00,2021-07-20,Austin
+15,Oliver White,Data Scientist,Data Science,96000.00,2021-09-15,San Francisco
+16,Sophia Green,Marketing Manager,Marketing,82000.00,2022-07-15,New York
+17,Liam Black,Business Analyst,Business,70000.00,2021-12-05,London
+18,Emma White,Data Engineer,Data Science,98000.00,2023-03-20,San Francisco
+19,Noah Gray,HR Consultant,HR,65000.00,2020-10-30,Austin
+20,Oliver Blue,Sales Executive,Sales,72000.00,2022-09-18,Mumbai
+21,Emily Johnson,Software Architect,IT,120000.00,2019-06-25,New York
+22,Daniel Brown,Product Manager,Product,90000.00,2021-11-12,San Francisco
+23,Charlotte Miller,Marketing Analyst,Marketing,76000.00,2023-02-05,London
+24,James Wilson,Finance Manager,Finance,87000.00,2020-04-17,Austin
+25,Benjamin Smith,Cloud Engineer,IT,95000.00,2021-09-28,Mumbai
+26,Amelia Davis,Machine Learning Engineer,AI Research,110000.00,2022-08-10,San Francisco
+27,Ethan Martinez,Full Stack Developer,IT,85000.00,2020-07-22,New York
+28,Lucas Anderson,SEO Specialist,Marketing,67000.00,2021-10-03,London
+29,Harper Thomas,Cybersecurity Analyst,Security,94000.00,2022-05-29,Austin
+30,Alexander Roberts,Data Architect,Data Science,103000.00,2019-03-14,Mumbai
+31,Mia Walker,Network Administrator,IT,72000.00,2023-01-30,San Francisco
+32,William Scott,Customer Support Manager,Support,68000.00,2021-06-19,New York
+33,Isabella Hall,Business Intelligence Analyst,Business,80000.00,2020-09-08,London
+34,Michael Harris,DevOps Engineer,IT,97000.00,2018-12-11,Austin
+35,Ava Lewis,UX/UI Designer,Design,78000.00,2022-04-25,Mumbai
