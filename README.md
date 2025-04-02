@@ -4,6 +4,7 @@ AI Agent for SQL Query Execution
 Many organizations require seamless interaction with databases for data retrieval and 
 insights. However, non-technical users struggle with writing SQL queries. This AI agent will 
 bridge the gap by enabling: 
+
 • Conversion of natural language queries to SQL
 
 • Execution of queries on a PostgreSQL database 
@@ -13,12 +14,16 @@ bridge the gap by enabling:
 # Technologies & Libraries Used 
 1.Programming Language: 
 • Python 
+
 2.Database: 
 • PostgreSQL
+
 3.AI Model for SQL Conversion: 
 • Google Gemini API (via google-generativeai package) 
+
 4.Backend Framework: 
 • Flask 
+
 5.Frontend UI 
 • Streamlit
 
@@ -46,9 +51,13 @@ pip install Flask psycopg2 mysql-connector-python google-generativeai pandas
 
 # Project Architecture 
 ![image](https://github.com/user-attachments/assets/bf98a5b1-b1cc-4a46-a83b-4e227c39161d)
+
 • database.py: Handles database connection and query execution. 
+
 • ai_sql.py: Converts natural language queries to SQL using Google Gemini API. 
+
 • query_executor.py: Processes AI-generated SQL and executes it. 
+
 • app.py: Main Flask application that serves the API. 
 
 # Streamlit UI : 
