@@ -11,6 +11,12 @@ bridge the gap by enabling:
 
 • Returning results in JSON or tabular format
 
+# Dataset
+For this AI-powered SQL Agent, we utilized a structured PostgreSQL database containing sample employee records to test and validate the AI-generated SQL queries. Below are the details of the dataset used
+Dataset Name: employee_db
+
+![image](https://github.com/user-attachments/assets/80d9b848-7e86-4040-86ff-b0e66c4ebd3a)
+
 # Technologies & Libraries Used 
 1.Programming Language: 
 • Python 
