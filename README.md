@@ -75,9 +75,9 @@ pip install Flask psycopg2 mysql-connector-python google-generativeai pandas
 
 # Demo Video:-
 
-https://drive.google.com/drive/folders/1V_ABujzdIWqPKsQn17CLEHMGaC7YTuEN?usp=sharing
+https://drive.google.com/drive/folders/1DyRMy0gWZyUJ7nFXUTi4nX1GPQ_9EWpJ?usp=sharing
 
-(note:- uploaded on documentation also)
+(note:- Uploaded on Project Video Folder also)
 
 # License
 This project is open-source and available.
